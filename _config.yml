@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About JH Kim"
+title                    : "About JHKim"
 title_separator          : "-"
 name                     : &name "Junho Kim"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Junho Kim"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student"
-  location         : "Korea Advanced Institute of Science & Technology, Daejeon"
+  bio              : "Ph.D. Student in EE"
+  location         : "KAIST, Daejeon"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZxE16ZUAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/junhokim-kaist/"
+  linkedin         : "junhokim-kaist/"
   orcid            :
   pinterest        :
   soundcloud       :
