@@ -39,11 +39,12 @@ plainwhite:
     #telegram: jekyll
     #gitlab: jekyll
     email: arkimjh@kaist.ac.kr
+    google: https://scholar.google.com/citations?user=ZxE16ZUAAAAJ&hl=en
 
     # Mastodon instances
-     mastodon:
-     - username: https://scholar.google.com/citations?user=ZxE16ZUAAAAJ&hl=en
-       instance: https://user-images.githubusercontent.com/4565568/29706177-1b3f8d24-8981-11e7-94dd-f561724011ab.png
+#     mastodon:
+#     - username: https://scholar.google.com/citations?user=ZxE16ZUAAAAJ&hl=en
+#       instance: https://user-images.githubusercontent.com/4565568/29706177-1b3f8d24-8981-11e7-94dd-f561724011ab.png
 #     - username: jekyll2
     #   instance: example.com
 
