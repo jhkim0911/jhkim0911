@@ -26,7 +26,6 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
     github:  https://github.com/DooDooKim
     linkedIn: https://www.linkedin.com/in/junhokim-kaist/
     #dribbble: jekyll
@@ -36,9 +35,10 @@ plainwhite:
     #youtube: jekyll
     #facebook: jekyll
     #soundcloud: jekyll
+    scholar: https://scholar.google.com/citations?user=ZxE16ZUAAAAJ&hl=en
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: arkimjh@kaist.ac.kr
 
     # Mastodon instances
     # mastodon:
