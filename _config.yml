@@ -33,13 +33,12 @@ plainwhite:
     #flickr:   jekyll
     #instagram: jekyll
     #pinterest: jekyll
-    #youtube: jekyll
+    youtube: https://scholar.google.com/citations?user=ZxE16ZUAAAAJ&hl=en
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
     email: arkimjh@kaist.ac.kr
-    google: https://scholar.google.com/citations?user=ZxE16ZUAAAAJ&hl=en
 
     # Mastodon instances
 #     mastodon:
