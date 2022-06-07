@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "International Journal and Conference"
 permalink: /publications/
 author_profile: true
 ---
