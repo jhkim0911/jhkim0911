@@ -27,8 +27,8 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    github:  https://github.com/DooDooKim
-    linkedIn: https://www.linkedin.com/in/junhokim-kaist/
+    github: jhkim0911
+    linkedIn: in/junhokim-kaist/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -221,7 +221,7 @@ content:
 
       - **EE534 Pattern Recognition, KAIST (2021)**
          Teaching Assistant
-         
+
 
 plugins:
   - jekyll-seo-tag
