@@ -37,7 +37,7 @@ Work experience
 * Research Internship in Hyundai MOBIS, South Korea, Jan. 2018 - Feb. 2018
   * Research Intern
   * Driving Assistant System Group
-  * Developing Lane Keeping Aid System (LKAS) algorithm
+  * Developing Lane Keeping Assist System (LKAS) algorithm
   
 Programming skills
 ======
