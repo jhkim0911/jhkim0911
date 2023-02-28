@@ -38,7 +38,15 @@ Work experience
   * Research Intern
   * Driving Assistant System Group
   * Developing Lane Keeping Assist System (LKAS) algorithm
-  
+
+Professional Reviewer Activities
+======
+* International Journal
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* International Conference
+  * Computer Vision and Pattern Recognition (CVPR)
+  * International Conference on Computer Vision (ICCV)
+
 Programming skills
 ======
 * Languages
