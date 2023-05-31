@@ -43,6 +43,7 @@ Professional Reviewer Activities
 ======
 * International Journal
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  * IEEE Transactions on Audio, Speech, and Language Processing (TASLP)
 * International Conference
   * Computer Vision and Pattern Recognition (CVPR)
   * International Conference on Computer Vision (ICCV)
