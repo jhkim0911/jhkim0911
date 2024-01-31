@@ -11,9 +11,9 @@ redirect_from:
 About me
 ======
 Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Korea Advanced Institute of Science and Technology. 
-I am researching in Image and Video Systems Lab., under the supervision of Professor Yong Man Ro. 
+I am researching in Image and Video Systems Lab. & Integrated Vision Language Lab., under the supervision of Professor Yong Man Ro. 
 I have experiences with mainly machine learning, deep learning, and computer vision.
-Now I am more focusing on explainable ai, adversarial robustness, and causal inference.
+Now I am more focusing on large multimodal models, causality, and explainable AI.
 
 
 
