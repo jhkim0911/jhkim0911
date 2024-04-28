@@ -17,8 +17,9 @@ Education
 Research Interests
 ======
 * Deep Learning
+* Large Vision-Language Models
+* Model Robustness & Safety
 * Causal Inference
-* Adversarial Robustness
 * Explainable AI
 * Medical AI
 
@@ -47,6 +48,7 @@ Professional Reviewer Activities
 * International Conference
   * Computer Vision and Pattern Recognition (CVPR)
   * International Conference on Computer Vision (ICCV)
+  * European Conference on Computer Vision (ECCV)
 
 Programming skills
 ======
