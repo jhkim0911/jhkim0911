@@ -1,6 +1,6 @@
 ---
-title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
+title: "Causal Unsupervised Semantic Segmentation"
 paperurl: 'https://arxiv.org/abs/2307.07250'
-venue: 'IEEE/CVF International Conference on Computer Vision (ICCV), 2023'
+venue: 'Under reviewing, 2024'
 ---
-Byung-Kwan Lee\*, **Junho Kim**\*, Yong Man Ro (*: equally contributed)
+**Junho Kim**\*, Byung-Kwan Lee\*, Yong Man Ro (*: equally contributed)
